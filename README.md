@@ -1,10 +1,10 @@
-# PluginHalq
+# PluginHalq:
 
-PAPER 1.12.2
-
-this is plugin, it takes all information from a player who executed any command, and send in webhook
+this is plugin, it takes all information from a player who executed any command, and send in webhook paper 1.12.2
 
 name, coords, ip, world, date/time
+
+# Tutorial
 
 I accept suggestions
 
