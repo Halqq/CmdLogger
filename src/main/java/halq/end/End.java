@@ -13,7 +13,7 @@ import java.util.Date;
 
 /**
  * @author halq
- * @apiNote simple cmd logger, made for send information from a player who executed some command
+ * @apiNote simple cmd logger, made for send information from a player who executed some command!
  * @since 27/08/2022
  */
 
