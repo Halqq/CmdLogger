@@ -4,6 +4,8 @@ PAPER 1.12.2
 
 this is plugin, it takes all information from a player who executed any command, and send in webhook
 
+name, coords, ip, world, date/time
+
 I accept suggestions
 
 put your webhook in src/halq/end/Utils/webhookUtil
